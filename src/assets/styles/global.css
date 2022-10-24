@@ -23,6 +23,23 @@
   box-sizing: border-box;
 }
 
+.heading-1 {
+  font-size: 34px;
+  margin: 20px 0px;
+  font-weight: 300;
+}
+.heading-2 {
+  font-size: 22px;
+  margin: 20px 0px;
+  font-weight: 300;
+}
+.heading-3 {
+  font-size: 17px;
+  margin: 20px 0px;
+  font-weight: 300;
+}
+
+
 a {
   font-weight: 500;
   color: var(--primary-color);
