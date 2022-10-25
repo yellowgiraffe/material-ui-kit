@@ -6,12 +6,14 @@
 
 <style>
   .header {
-    font-weight: bold;
-    padding: 0 20px;
-    height: 62px;
     display: flex;
     align-items: center;
-    z-index: 1;
     position: relative;
+    z-index: 1;
+    padding: 0 20px;
+    height: 62px;
+    font-weight: bold;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.07);
+
   }
 </style>
